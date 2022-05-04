@@ -36,6 +36,7 @@ table{
     height: 50%;
     width: 100%;
     
+    
 }
 input[type='text'] {
     height:70%;
@@ -46,4 +47,19 @@ input[type='text'] {
   height: 10%;
   background: black;
   color:white;
+}
+.downDiv{
+height: 95%;
+width: 90%;
+margin: 2.5% 5% 2.5% 5% ;
+text-align: center;
+float: left;
+}
+thead{
+    background: black;
+    color: white;
+    width: 8%;
+}
+tr{
+    border: 1px solid silver;
 }
