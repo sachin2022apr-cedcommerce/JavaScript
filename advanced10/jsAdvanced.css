@@ -1,0 +1,24 @@
+body {font-family: Arial, Helvetica, sans-serif;}
+
+.outer{
+width: 1000px;
+height: 100%;
+float:left;
+background:#d8e4dd;
+}
+
+.inner {
+margin:2% 0 2% 26%;
+background:#5cdb95;
+float:left;
+width:44%;
+height:90%;
+}
+
+table{
+  width: 98%;
+  height:94%;
+  margin:0 0 0 2; 
+  text-align: center;
+	
+}
